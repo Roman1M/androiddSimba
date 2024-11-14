@@ -1,0 +1,6 @@
+@WebSimba_HostAddress = http://localhost:5432
+
+GET {{WebSimba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
